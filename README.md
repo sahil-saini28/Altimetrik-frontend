@@ -7,12 +7,12 @@ This is the frontend part of the Telecom Customer Management System, a web appli
 1. Clone this repository:
    
    ```bash
-   git clone <repository_url>
+   git clone https://github.com/sahil-saini28/Altimetrik-frontend.git
    ```
 
 2. Install dependencies:
    
-   bashCopy code
+   bash code
    
    `npm install`
    
@@ -24,7 +24,7 @@ This is the frontend part of the Telecom Customer Management System, a web appli
    
    2. Install dependencies:
       
-      bashCopy code
+      bash code
       
       `npm install`
    
